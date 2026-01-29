@@ -9,4 +9,5 @@
 ```bash
 pandoc {chemin-de document de source} -o {nom-de-fichier-de-sortie}.docx
 pandoc /home/rongzhou/Documents/R500-robotic-caterpillar/components-fr.md -o components-fr.docx
+pandoc O:\R500-robotic-caterpillar\robot-R500-temp.md -o robot-R500-temp.docx
 ```
