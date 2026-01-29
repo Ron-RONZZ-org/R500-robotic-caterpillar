@@ -29,8 +29,10 @@ Aujourd’hui, nous allons vous présenter le robot chenille. Il s’agit d’un
 > Avertissement de fabriquer : 
 
 - Points à retenir :
-  - 
+  - Vis autotaraudeuses
 
 ## Programmation
+
+
 
 
